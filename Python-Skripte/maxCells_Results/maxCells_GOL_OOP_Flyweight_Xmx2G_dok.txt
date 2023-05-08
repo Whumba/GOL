@@ -1,0 +1,82 @@
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|23:21:16| Begin Test for GOL_OOP_Flyweight.jar with -Xmx2G
+maxTime = 15000ms , timeOut = 30sec
+lower = 3571 , upper = 10000
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+lower: 3571   upper: 10000   mid: 6785
+|23:21:16| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 6785 6785 15000 0 1
+|23:21:24| Failure: Error
+set upper to 6785.
+------------------------------------------------------------------------
+lower: 3571   upper: 6785   mid: 5178
+|23:21:24| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5178 5178 15000 0 1
+|23:21:32| Failure: Error
+set upper to 5178.
+------------------------------------------------------------------------
+lower: 3571   upper: 5178   mid: 4374
+|23:21:32| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 4374 4374 15000 0 1
+|23:21:47| Re-Run to gather Output.
+|23:22:02| Data written: 4374,4374,15000,0,1,57,1447,13629,1656227840
+set lower to 4374.
+------------------------------------------------------------------------
+lower: 4374   upper: 5178   mid: 4776
+|23:22:02| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 4776 4776 15000 0 1
+|23:22:17| Re-Run to gather Output.
+|23:22:33| Data written: 4776,4776,15000,0,1,46,1635,13372,1964509184
+set lower to 4776.
+------------------------------------------------------------------------
+lower: 4776   upper: 5178   mid: 4977
+|23:22:33| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 4977 4977 15000 0 1
+|23:22:48| Re-Run to gather Output.
+|23:23:03| Data written: 4977,4977,15000,0,1,39,1812,13338,2139171536
+set lower to 4977.
+------------------------------------------------------------------------
+lower: 4977   upper: 5178   mid: 5077
+|23:23:03| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5077 5077 15000 0 1
+|23:23:13| Failure: Error
+set upper to 5077.
+------------------------------------------------------------------------
+lower: 4977   upper: 5077   mid: 5027
+|23:23:13| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5027 5027 15000 0 1
+|23:23:28| Re-Run to gather Output.
+|23:23:44| Data written: 5027,5027,15000,0,1,39,2522,12778,2137570048
+set lower to 5027.
+------------------------------------------------------------------------
+lower: 5027   upper: 5077   mid: 5052
+|23:23:44| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5052 5052 15000 0 1
+|23:24:05| Re-Run to gather Output.
+|23:24:25| Data written: 5052,5052,15000,0,1,3,7582,11618,2146298664
+set lower to 5052.
+------------------------------------------------------------------------
+lower: 5052   upper: 5077   mid: 5064
+|23:24:25| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5064 5064 15000 0 1
+|23:24:32| Failure: Error
+set upper to 5064.
+------------------------------------------------------------------------
+lower: 5052   upper: 5064   mid: 5058
+|23:24:32| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5058 5058 15000 0 1
+|23:24:41| Failure: Error
+set upper to 5058.
+------------------------------------------------------------------------
+lower: 5052   upper: 5058   mid: 5055
+|23:24:41| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5055 5055 15000 0 1
+|23:24:50| Failure: Error
+set upper to 5055.
+------------------------------------------------------------------------
+lower: 5052   upper: 5055   mid: 5053
+|23:24:50| Starting: java -Xmx2G -jar GOL_OOP_Flyweight.jar 5053 5053 15000 0 1
+|23:24:59| Re-Run to gather Output.
+|23:25:08| Data is empty. Invalid Run !
+set upper to 5053.
+------------------------------------------------------------------------
+End-Values | lower: 5052   upper: 5053   mid: 5052
+-----------------------------------------------------------------------------
+Number of possible Rows and Columns: 5052
+-----------------------------------------------------------------------------
+|23:25:08| Completed Test for GOL_OOP_Flyweight.jar with -Xmx2G
+maxTime = 15000ms , timeOut = 30sec
+lower: 3571   upper: 10000
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------

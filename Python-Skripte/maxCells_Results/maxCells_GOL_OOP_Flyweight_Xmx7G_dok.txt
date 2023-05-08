@@ -1,0 +1,74 @@
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|11:58:25| Begin Test for GOL_OOP_Flyweight.jar with -Xmx7G
+maxTime = 70000ms , timeOut = 140sec
+lower = 8753 , upper = 11000
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+lower: 8753   upper: 11000   mid: 9876
+|11:58:25| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9876 9876 70000 0 1
+|11:58:51| Failure: Error
+set upper to 9876.
+------------------------------------------------------------------------
+lower: 8753   upper: 9876   mid: 9314
+|11:58:51| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9314 9314 70000 0 1
+|12:00:02| Re-Run to gather Output.
+|12:01:13| Data written: 9314,9314,70000,0,1,46,8160,62521,7308318160
+set lower to 9314.
+------------------------------------------------------------------------
+lower: 9314   upper: 9876   mid: 9595
+|12:01:13| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9595 9595 70000 0 1
+|12:01:46| Failure: Error
+set upper to 9595.
+------------------------------------------------------------------------
+lower: 9314   upper: 9595   mid: 9454
+|12:01:46| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9454 9454 70000 0 1
+|12:03:16| Re-Run to gather Output.
+|12:04:37| Data written: 9454,9454,70000,0,1,3,27663,53349,7512722104
+set lower to 9454.
+------------------------------------------------------------------------
+lower: 9454   upper: 9595   mid: 9524
+|12:04:37| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9524 9524 70000 0 1
+|12:05:07| Failure: Error
+set upper to 9524.
+------------------------------------------------------------------------
+lower: 9454   upper: 9524   mid: 9489
+|12:05:07| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9489 9489 70000 0 1
+|12:05:39| Failure: Error
+set upper to 9489.
+------------------------------------------------------------------------
+lower: 9454   upper: 9489   mid: 9471
+|12:05:39| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9471 9471 70000 0 1
+|12:06:09| Failure: Error
+set upper to 9471.
+------------------------------------------------------------------------
+lower: 9454   upper: 9471   mid: 9462
+|12:06:09| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9462 9462 70000 0 1
+|12:06:39| Failure: Error
+set upper to 9462.
+------------------------------------------------------------------------
+lower: 9454   upper: 9462   mid: 9458
+|12:06:39| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9458 9458 70000 0 1
+|12:07:09| Failure: Error
+set upper to 9458.
+------------------------------------------------------------------------
+lower: 9454   upper: 9458   mid: 9456
+|12:07:09| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9456 9456 70000 0 1
+|12:07:39| Re-Run to gather Output.
+|12:08:08| Data is empty. Invalid Run !
+set upper to 9456.
+------------------------------------------------------------------------
+lower: 9454   upper: 9456   mid: 9455
+|12:08:08| Starting: java -Xmx7G -jar GOL_OOP_Flyweight.jar 9455 9455 70000 0 1
+|12:10:48| Failure: Timed-out
+set upper to 9455.
+------------------------------------------------------------------------
+End-Values | lower: 9454   upper: 9455   mid: 9454
+-----------------------------------------------------------------------------
+Number of possible Rows and Columns: 9454
+-----------------------------------------------------------------------------
+|12:10:48| Completed Test for GOL_OOP_Flyweight.jar with -Xmx7G
+maxTime = 70000ms , timeOut = 140sec
+lower: 8753   upper: 11000
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
